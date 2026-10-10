@@ -1,0 +1,13 @@
+{
+  "name": "officialputuid — I Putu Jaya Adi Pranata",
+  "short_name": "officialputuid",
+  "description": "Tech enthusiast from Bali. Links to GitHub, Instagram, X, Telegram, and more.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#0a84ff",
+  "icons": [
+    { "src": "assets/avatar.jpg", "sizes": "460x460", "type": "image/jpeg", "purpose": "any maskable" }
+  ]
+}
