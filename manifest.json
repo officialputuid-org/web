@@ -8,6 +8,23 @@
   "background_color": "#f2f2f7",
   "theme_color": "#0a84ff",
   "icons": [
-    { "src": "assets/avatar.jpg", "sizes": "460x460", "type": "image/jpeg", "purpose": "any maskable" }
+    {
+      "src": "assets/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/avatar.jpg",
+      "sizes": "460x460",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
   ]
 }
